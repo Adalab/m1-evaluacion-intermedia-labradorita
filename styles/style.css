@@ -74,7 +74,7 @@ body {
     text-align: center;
 }
 
-@media all and (min-width:500px) {
+@media all and (min-width:768px) {
     .mje {
         font-size: 40px;
     }
