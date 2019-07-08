@@ -55,10 +55,11 @@
     justify-content: center;
     align-items: center;
     height: 100vh;
+    min-height: 330px;
 }
 
 .container-text {
-    width: 200px;
+    width: 140px;
 }
 
 .message {
@@ -83,5 +84,8 @@
         margin-top: 0;
         display: flex;
         align-items: center;
+    }
+    .container-main {
+        min-height: 350px;
     }
 }
